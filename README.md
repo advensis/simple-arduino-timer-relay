@@ -17,4 +17,4 @@ current and use the Arduino to control the relay.
 
 ## App
 
-See code.
+See code in repository.
